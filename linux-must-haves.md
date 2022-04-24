@@ -111,6 +111,13 @@ wireshark
 ```
 
 ```sh
+opera
+firefox
+brave-browser
+chromium-browser
+```
+
+```sh
 audacious
 audacity
 avidemux
