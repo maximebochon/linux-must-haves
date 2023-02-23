@@ -90,6 +90,7 @@ baobab
 filezilla
 fslint-gui
 ghex
+gnome-disk-utility
 gshutdown
 gucharmap
 kate
